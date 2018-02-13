@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Typescript debug",
-            "program": "${workspaceRoot}/app.ts",
+            "program": "${workspaceRoot}/src/app.ts",
             "outFiles": [
                 "${workspaceRoot}/**/*.js"
             ]
